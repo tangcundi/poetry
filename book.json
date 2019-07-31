@@ -3,7 +3,7 @@
   "description": "诗词歌赋",
   "extension": null,
   "generator": "site",
-  "isbn": null,
+  "isbn": "",
   "links": {
       "sharing": {
           "all": null,
@@ -13,7 +13,7 @@
           "weibo": null
       },
       "sidebar": {
-          "Stunning's Blog": "http://www.stunning.cn"
+          "Stunning's Blog": "#"
       }
   },
   "output": null,
@@ -30,7 +30,7 @@
       "pageNumbers": false,
       "paperSize": "a4"
   },
-  "plugins": [],
+  "plugins": ["toggle-chapters"],
   "title": "诗词歌赋",
   "variables": {}
 }
