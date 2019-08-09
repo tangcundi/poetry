@@ -30,7 +30,15 @@
       "pageNumbers": false,
       "paperSize": "a4"
   },
-  "plugins": ["toggle-chapters"],
+  "plugins": [
+    "toggle-chapters",
+    "baiduana"
+  ],
+  "pluginsConfig": {
+    "baidu": {
+        "token": "10bb1dde3eae7cce94c6f27e54b40343"
+    }
+  },
   "title": "诗词歌赋",
   "variables": {}
 }

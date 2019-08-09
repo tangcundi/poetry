@@ -22,6 +22,8 @@
     * [陶渊明-饮酒](WeiJin/yinjiu.md)
     * [陶渊明-归园田居](WeiJin/guiyuantianju.md)
     * [陶渊明-桃花源记](WeiJin/taohuayuanji.md)
+    * [木兰诗](WeiJin/mulanshi.md)
+    * [孔雀东南飞](WeiJin/kongquedongnanfei.md)
 * [第四章 隋唐](SuiTang/README.md)
 * [第五章 两宋](Song/README.md)
     * [李煜](Song/liyu/README.md)
