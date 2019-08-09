@@ -6,6 +6,8 @@
 
 * [诗经-硕鼠](shuoshu.md)
 
+* [屈原-离骚](lisao.md)
+
 * [荆轲-易水歌](yishuige.md)
 
 * [项羽-垓下歌](gaixiage.md)
