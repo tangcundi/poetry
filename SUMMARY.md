@@ -2,9 +2,9 @@
 
 * [前言](README.md)
 * [第一章 先秦](Qin/README.md)
+    * [大学](Qin/daxue.md)
     * [诗经-关雎](Qin/guanju.md)
     * [诗经-硕鼠](Qin/shuoshu.md)
-    * [大学](Qin/daxue.md)
     * [荆轲-易水歌](Qin/yishuige.md)
     * [项羽-垓下歌](Qin/gaixiage.md)
 * [第二章 两汉](Han/README.md)
