@@ -33,10 +33,10 @@
   },
   "plugins": [
     "toggle-chapters",
-    "baiduana"
+    "baidu-tongji"
   ],
   "pluginsConfig": {
-    "baidu": {
+    "baidu-tongji": {
         "token": "10bb1dde3eae7cce94c6f27e54b40343"
     }
   },

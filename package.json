@@ -4,7 +4,7 @@
   "description": "poetry",
   "main": "index.js",
   "dependencies": {
-    "gitbook-plugin-baiduana": "^1.0.0",
+    "gitbook-plugin-baidu-tongji": "^1.0.4",
     "gitbook-plugin-toggle-chapters": "^0.0.3"
   },
   "devDependencies": {},
